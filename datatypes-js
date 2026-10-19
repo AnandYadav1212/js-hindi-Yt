@@ -1,0 +1,23 @@
+// primitive
+
+// 7 types : String , Number , Boolean , null , underfined , Symbol , BigInt
+
+const score = 100 
+
+const isLoggedIn = false
+const outsideTemp = null
+
+let userEmail;
+
+const id = Symbol('123')
+const anotherId = Symbol('123')
+
+console.log(id === anotherId);
+
+
+
+
+
+// Refecence (Non primitive)
+
+//Array , Objects,Functions
